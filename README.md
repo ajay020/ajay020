@@ -18,8 +18,6 @@ Hi, I'm Ajay, a full-stack developer. I love the creative process of transformin
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay020&layout=compact)](https://github.com/ajay020)
-
 
 
 
