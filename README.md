@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-Hi, I'm Ajay, a passionate front-end developer with a keen eye for detail and a drive for creating exceptional user experiences. I love the creative process of transforming ideas into beautiful, functional, and intuitive web applications.
+Hi, I'm Ajay, a full-stack developer. I love the creative process of transforming ideas into beautiful, functional, and intuitive web applications.
 
  ### Skills
 
