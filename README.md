@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-Hi, I'm Ajay, a full-stack developer. I love the creative process of transforming ideas into beautiful, functional, and intuitive web applications.
+Hi, I'm Ajay. I am a mobile developer. I love creating beautiful mobile apps.
 
  ### Skills
 
