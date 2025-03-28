@@ -4,7 +4,7 @@ I’m an Android Developer. I enjoy building beautiful UI/UX experiences and wri
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay020&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay020&show_icons=true&theme=react)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay020&theme=react)
