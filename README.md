@@ -1,6 +1,5 @@
 
 Hi, I'm Ajay! 👋
-I’m an Android Developer.
 
 
 
